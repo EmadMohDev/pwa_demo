@@ -4,7 +4,7 @@
  // the assets to store in the cache.
  const assets = [
      "/",
-     "./index.html", //  we add . if we deploy on sub doamin
+     "./index.html", //  we add . if we deploy on sub domain
      "./css/style.css",
      "./js/app.js",
      "./images/coffee1.jpg",

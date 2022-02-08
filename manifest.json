@@ -7,7 +7,7 @@
     "theme_color": "#db4938",
     "orientation": "portrait-primary",
     "icons": [{
-            "src": "./images/icons/icon-72x72.png", // we add . if we deploy on sub doamin
+            "src": "./images/icons/icon-72x72.png", // we add . if we deploy on sub domain
             "type": "image/png",
             "sizes": "72x72"
         },
