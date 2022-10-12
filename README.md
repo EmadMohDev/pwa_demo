@@ -11,7 +11,7 @@
 
 # Purpose
 
--In this article, we are going to build a PWA  ( Progressive Web App ) from scratch with HTML, CSS, and JavaScript
+-we are going to build a PWA  ( Progressive Web App ) from scratch with HTML, CSS, and JavaScript
 
 
 
